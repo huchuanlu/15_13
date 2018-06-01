@@ -1,0 +1,1 @@
+Run cu_computesaliency.m to generate saliency maps for the images saved in the folder "imgs".
